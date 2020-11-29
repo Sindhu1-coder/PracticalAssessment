@@ -1,0 +1,6 @@
+pageObjects\Conservative.class
+pageObjects\Balanced.class
+Information\App.class
+pageObjects\Defensive.class
+Information\base.class
+pageObjects\SaverKiwi.class
